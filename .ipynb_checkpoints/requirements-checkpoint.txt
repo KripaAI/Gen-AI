@@ -1,0 +1,7 @@
+python-dotenv
+python-docx
+pdfplumber
+openai
+langchain-openai
+langgraph
+ipython
